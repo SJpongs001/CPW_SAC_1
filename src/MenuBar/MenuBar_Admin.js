@@ -98,7 +98,7 @@ export default function Menubar() {
         
       </Tabs>
       <TabPanel value={value} index={0}>
-        Hello
+        Chat Area
       </TabPanel>
       <TabPanel value={value} index={1}>
                 < Dashboard />

@@ -32,7 +32,7 @@ function Account() {
 
     const logout = () => {
         localStorage.removeItem('token')
-        navigate('/Login3')
+        navigate('/Login3') 
     }
 
     const ContainerStyle = {
